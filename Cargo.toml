@@ -3,7 +3,7 @@ name = "ordo-device-peer"
 version = "0.1.0"
 edition = "2021"
 description = "Reusable Ordo peer presence and control helpers for device apps."
-license = "MIT OR Apache-2.0"
+license = "PolyForm-Noncommercial-1.0.0"
 
 [dependencies]
 ordo-protocol = { path = "../Ordo+webview+avatar/ordo-protocol" }

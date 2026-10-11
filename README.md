@@ -78,3 +78,7 @@ Ordo's intended fallback ladder is:
 
 Cloud LLM/provider connections are separate and still go through Ordo's normal
 provider credential layer.
+
+## License
+
+Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE) (`PolyForm-Noncommercial-1.0.0`). Free for personal use, research, education, charities, public-good nonprofits, and government; commercial use is not permitted. This is source-available software, not OSI open source.
